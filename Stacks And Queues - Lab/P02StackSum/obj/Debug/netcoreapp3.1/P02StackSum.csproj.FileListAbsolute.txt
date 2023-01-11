@@ -1,0 +1,14 @@
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\bin\Debug\netcoreapp3.1\P02StackSum.exe
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\bin\Debug\netcoreapp3.1\P02StackSum.deps.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\bin\Debug\netcoreapp3.1\P02StackSum.runtimeconfig.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\bin\Debug\netcoreapp3.1\P02StackSum.runtimeconfig.dev.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\bin\Debug\netcoreapp3.1\P02StackSum.dll
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\bin\Debug\netcoreapp3.1\P02StackSum.pdb
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\obj\Debug\netcoreapp3.1\P02StackSum.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\obj\Debug\netcoreapp3.1\P02StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\obj\Debug\netcoreapp3.1\P02StackSum.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\obj\Debug\netcoreapp3.1\P02StackSum.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\obj\Debug\netcoreapp3.1\P02StackSum.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\obj\Debug\netcoreapp3.1\P02StackSum.dll
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\obj\Debug\netcoreapp3.1\P02StackSum.pdb
+C:\Users\Luboslav\source\repos\StacksAndQueues\P02StackSum\obj\Debug\netcoreapp3.1\P02StackSum.genruntimeconfig.cache

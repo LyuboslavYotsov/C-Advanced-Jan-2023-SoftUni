@@ -1,0 +1,14 @@
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\bin\Debug\netcoreapp3.1\P06Supermarket.exe
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\bin\Debug\netcoreapp3.1\P06Supermarket.deps.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\bin\Debug\netcoreapp3.1\P06Supermarket.runtimeconfig.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\bin\Debug\netcoreapp3.1\P06Supermarket.runtimeconfig.dev.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\bin\Debug\netcoreapp3.1\P06Supermarket.dll
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\bin\Debug\netcoreapp3.1\P06Supermarket.pdb
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\obj\Debug\netcoreapp3.1\P06Supermarket.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\obj\Debug\netcoreapp3.1\P06Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\obj\Debug\netcoreapp3.1\P06Supermarket.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\obj\Debug\netcoreapp3.1\P06Supermarket.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\obj\Debug\netcoreapp3.1\P06Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\obj\Debug\netcoreapp3.1\P06Supermarket.dll
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\obj\Debug\netcoreapp3.1\P06Supermarket.pdb
+C:\Users\Luboslav\source\repos\StacksAndQueues\P06Supermarket\obj\Debug\netcoreapp3.1\P06Supermarket.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\bin\Debug\netcoreapp3.1\P01ReverseString.exe
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\bin\Debug\netcoreapp3.1\P01ReverseString.deps.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\bin\Debug\netcoreapp3.1\P01ReverseString.runtimeconfig.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\bin\Debug\netcoreapp3.1\P01ReverseString.runtimeconfig.dev.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\bin\Debug\netcoreapp3.1\P01ReverseString.dll
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\bin\Debug\netcoreapp3.1\P01ReverseString.pdb
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\obj\Debug\netcoreapp3.1\P01ReverseString.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\obj\Debug\netcoreapp3.1\P01ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\obj\Debug\netcoreapp3.1\P01ReverseString.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\obj\Debug\netcoreapp3.1\P01ReverseString.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\obj\Debug\netcoreapp3.1\P01ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\obj\Debug\netcoreapp3.1\P01ReverseString.dll
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\obj\Debug\netcoreapp3.1\P01ReverseString.pdb
+C:\Users\Luboslav\source\repos\StacksAndQueues\P01ReverseString\obj\Debug\netcoreapp3.1\P01ReverseString.genruntimeconfig.cache

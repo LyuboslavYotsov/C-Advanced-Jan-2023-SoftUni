@@ -1,0 +1,14 @@
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\bin\Debug\netcoreapp3.1\P07HotPotato.exe
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\bin\Debug\netcoreapp3.1\P07HotPotato.deps.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\bin\Debug\netcoreapp3.1\P07HotPotato.runtimeconfig.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\bin\Debug\netcoreapp3.1\P07HotPotato.runtimeconfig.dev.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\bin\Debug\netcoreapp3.1\P07HotPotato.dll
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\bin\Debug\netcoreapp3.1\P07HotPotato.pdb
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\obj\Debug\netcoreapp3.1\P07HotPotato.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\obj\Debug\netcoreapp3.1\P07HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\obj\Debug\netcoreapp3.1\P07HotPotato.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\obj\Debug\netcoreapp3.1\P07HotPotato.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\obj\Debug\netcoreapp3.1\P07HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\obj\Debug\netcoreapp3.1\P07HotPotato.dll
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\obj\Debug\netcoreapp3.1\P07HotPotato.pdb
+C:\Users\Luboslav\source\repos\StacksAndQueues\P07HotPotato\obj\Debug\netcoreapp3.1\P07HotPotato.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\bin\Debug\netcoreapp3.1\P08TrafficJam.exe
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\bin\Debug\netcoreapp3.1\P08TrafficJam.deps.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\bin\Debug\netcoreapp3.1\P08TrafficJam.runtimeconfig.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\bin\Debug\netcoreapp3.1\P08TrafficJam.runtimeconfig.dev.json
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\bin\Debug\netcoreapp3.1\P08TrafficJam.dll
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\bin\Debug\netcoreapp3.1\P08TrafficJam.pdb
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp3.1\P08TrafficJam.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp3.1\P08TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp3.1\P08TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp3.1\P08TrafficJam.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp3.1\P08TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp3.1\P08TrafficJam.dll
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp3.1\P08TrafficJam.pdb
+C:\Users\Luboslav\source\repos\StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp3.1\P08TrafficJam.genruntimeconfig.cache
