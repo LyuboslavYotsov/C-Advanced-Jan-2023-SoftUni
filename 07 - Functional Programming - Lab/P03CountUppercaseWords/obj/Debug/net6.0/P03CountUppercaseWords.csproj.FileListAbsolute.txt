@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\bin\Debug\net6.0\P03CountUppercaseWords.exe
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\bin\Debug\net6.0\P03CountUppercaseWords.deps.json
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\bin\Debug\net6.0\P03CountUppercaseWords.runtimeconfig.json
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\bin\Debug\net6.0\P03CountUppercaseWords.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\bin\Debug\net6.0\P03CountUppercaseWords.pdb
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\obj\Debug\net6.0\P03CountUppercaseWords.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\obj\Debug\net6.0\P03CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\obj\Debug\net6.0\P03CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\obj\Debug\net6.0\P03CountUppercaseWords.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\obj\Debug\net6.0\P03CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\obj\Debug\net6.0\P03CountUppercaseWords.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\obj\Debug\net6.0\refint\P03CountUppercaseWords.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\obj\Debug\net6.0\P03CountUppercaseWords.pdb
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\obj\Debug\net6.0\P03CountUppercaseWords.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P03CountUppercaseWords\obj\Debug\net6.0\ref\P03CountUppercaseWords.dll

@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\bin\Debug\net6.0\P09SoftUniExamResults.exe
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\bin\Debug\net6.0\P09SoftUniExamResults.deps.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\bin\Debug\net6.0\P09SoftUniExamResults.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\bin\Debug\net6.0\P09SoftUniExamResults.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\bin\Debug\net6.0\P09SoftUniExamResults.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\obj\Debug\net6.0\P09SoftUniExamResults.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\obj\Debug\net6.0\P09SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\obj\Debug\net6.0\P09SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\obj\Debug\net6.0\P09SoftUniExamResults.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\obj\Debug\net6.0\P09SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\obj\Debug\net6.0\P09SoftUniExamResults.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\obj\Debug\net6.0\refint\P09SoftUniExamResults.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\obj\Debug\net6.0\P09SoftUniExamResults.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\obj\Debug\net6.0\P09SoftUniExamResults.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P09SoftUniExamResults\obj\Debug\net6.0\ref\P09SoftUniExamResults.dll

@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\net6.0\SoftUniParty.exe
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\net6.0\SoftUniParty.deps.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\net6.0\SoftUniParty.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\net6.0\SoftUniParty.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\net6.0\SoftUniParty.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\net6.0\SoftUniParty.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\net6.0\SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\net6.0\SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\net6.0\SoftUniParty.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\net6.0\SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\net6.0\SoftUniParty.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\net6.0\refint\SoftUniParty.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\net6.0\SoftUniParty.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\net6.0\SoftUniParty.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\net6.0\ref\SoftUniParty.dll

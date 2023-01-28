@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\bin\Debug\net6.0\P03CustomMinFunction.exe
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\bin\Debug\net6.0\P03CustomMinFunction.deps.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\bin\Debug\net6.0\P03CustomMinFunction.runtimeconfig.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\bin\Debug\net6.0\P03CustomMinFunction.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\bin\Debug\net6.0\P03CustomMinFunction.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\obj\Debug\net6.0\P03CustomMinFunction.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\obj\Debug\net6.0\P03CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\obj\Debug\net6.0\P03CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\obj\Debug\net6.0\P03CustomMinFunction.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\obj\Debug\net6.0\P03CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\obj\Debug\net6.0\P03CustomMinFunction.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\obj\Debug\net6.0\refint\P03CustomMinFunction.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\obj\Debug\net6.0\P03CustomMinFunction.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\obj\Debug\net6.0\P03CustomMinFunction.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P03CustomMinFunction\obj\Debug\net6.0\ref\P03CustomMinFunction.dll

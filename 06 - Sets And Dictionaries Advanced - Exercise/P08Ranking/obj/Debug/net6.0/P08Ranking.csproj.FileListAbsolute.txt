@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\bin\Debug\net6.0\P08Ranking.exe
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\bin\Debug\net6.0\P08Ranking.deps.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\bin\Debug\net6.0\P08Ranking.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\bin\Debug\net6.0\P08Ranking.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\bin\Debug\net6.0\P08Ranking.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\obj\Debug\net6.0\P08Ranking.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\obj\Debug\net6.0\P08Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\obj\Debug\net6.0\P08Ranking.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\obj\Debug\net6.0\P08Ranking.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\obj\Debug\net6.0\P08Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\obj\Debug\net6.0\P08Ranking.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\obj\Debug\net6.0\refint\P08Ranking.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\obj\Debug\net6.0\P08Ranking.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\obj\Debug\net6.0\P08Ranking.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P08Ranking\obj\Debug\net6.0\ref\P08Ranking.dll

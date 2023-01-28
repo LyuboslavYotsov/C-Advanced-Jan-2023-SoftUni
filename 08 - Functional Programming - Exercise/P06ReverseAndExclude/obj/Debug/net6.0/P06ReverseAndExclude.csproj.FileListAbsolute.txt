@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\bin\Debug\net6.0\P06ReverseAndExclude.exe
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\bin\Debug\net6.0\P06ReverseAndExclude.deps.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\bin\Debug\net6.0\P06ReverseAndExclude.runtimeconfig.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\bin\Debug\net6.0\P06ReverseAndExclude.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\bin\Debug\net6.0\P06ReverseAndExclude.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\obj\Debug\net6.0\P06ReverseAndExclude.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\obj\Debug\net6.0\P06ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\obj\Debug\net6.0\P06ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\obj\Debug\net6.0\P06ReverseAndExclude.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\obj\Debug\net6.0\P06ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\obj\Debug\net6.0\P06ReverseAndExclude.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\obj\Debug\net6.0\refint\P06ReverseAndExclude.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\obj\Debug\net6.0\P06ReverseAndExclude.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\obj\Debug\net6.0\P06ReverseAndExclude.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P06ReverseAndExclude\obj\Debug\net6.0\ref\P06ReverseAndExclude.dll

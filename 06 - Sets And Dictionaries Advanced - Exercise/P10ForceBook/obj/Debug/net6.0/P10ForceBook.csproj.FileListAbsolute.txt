@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\bin\Debug\net6.0\P10ForceBook.exe
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\bin\Debug\net6.0\P10ForceBook.deps.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\bin\Debug\net6.0\P10ForceBook.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\bin\Debug\net6.0\P10ForceBook.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\bin\Debug\net6.0\P10ForceBook.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\obj\Debug\net6.0\P10ForceBook.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\obj\Debug\net6.0\P10ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\obj\Debug\net6.0\P10ForceBook.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\obj\Debug\net6.0\P10ForceBook.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\obj\Debug\net6.0\P10ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\obj\Debug\net6.0\P10ForceBook.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\obj\Debug\net6.0\refint\P10ForceBook.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\obj\Debug\net6.0\P10ForceBook.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\obj\Debug\net6.0\P10ForceBook.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P10ForceBook\obj\Debug\net6.0\ref\P10ForceBook.dll

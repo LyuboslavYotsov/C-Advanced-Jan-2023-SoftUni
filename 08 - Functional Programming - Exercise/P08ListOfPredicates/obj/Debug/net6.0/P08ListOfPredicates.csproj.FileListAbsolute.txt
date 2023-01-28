@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\bin\Debug\net6.0\P08ListOfPredicates.exe
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\bin\Debug\net6.0\P08ListOfPredicates.deps.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\bin\Debug\net6.0\P08ListOfPredicates.runtimeconfig.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\bin\Debug\net6.0\P08ListOfPredicates.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\bin\Debug\net6.0\P08ListOfPredicates.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\obj\Debug\net6.0\P08ListOfPredicates.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\obj\Debug\net6.0\P08ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\obj\Debug\net6.0\P08ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\obj\Debug\net6.0\P08ListOfPredicates.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\obj\Debug\net6.0\P08ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\obj\Debug\net6.0\P08ListOfPredicates.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\obj\Debug\net6.0\refint\P08ListOfPredicates.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\obj\Debug\net6.0\P08ListOfPredicates.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\obj\Debug\net6.0\P08ListOfPredicates.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P08ListOfPredicates\obj\Debug\net6.0\ref\P08ListOfPredicates.dll

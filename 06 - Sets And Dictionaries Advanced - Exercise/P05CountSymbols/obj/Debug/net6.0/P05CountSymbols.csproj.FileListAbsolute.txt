@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\bin\Debug\net6.0\P05CountSymbols.exe
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\bin\Debug\net6.0\P05CountSymbols.deps.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\bin\Debug\net6.0\P05CountSymbols.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\bin\Debug\net6.0\P05CountSymbols.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\bin\Debug\net6.0\P05CountSymbols.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\obj\Debug\net6.0\P05CountSymbols.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\obj\Debug\net6.0\P05CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\obj\Debug\net6.0\P05CountSymbols.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\obj\Debug\net6.0\P05CountSymbols.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\obj\Debug\net6.0\P05CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\obj\Debug\net6.0\P05CountSymbols.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\obj\Debug\net6.0\refint\P05CountSymbols.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\obj\Debug\net6.0\P05CountSymbols.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\obj\Debug\net6.0\P05CountSymbols.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P05CountSymbols\obj\Debug\net6.0\ref\P05CountSymbols.dll

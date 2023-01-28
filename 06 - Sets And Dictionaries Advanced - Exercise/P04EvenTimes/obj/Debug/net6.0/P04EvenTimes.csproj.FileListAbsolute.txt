@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\bin\Debug\net6.0\P04EvenTimes.exe
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\bin\Debug\net6.0\P04EvenTimes.deps.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\bin\Debug\net6.0\P04EvenTimes.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\bin\Debug\net6.0\P04EvenTimes.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\bin\Debug\net6.0\P04EvenTimes.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\obj\Debug\net6.0\P04EvenTimes.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\obj\Debug\net6.0\P04EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\obj\Debug\net6.0\P04EvenTimes.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\obj\Debug\net6.0\P04EvenTimes.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\obj\Debug\net6.0\P04EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\obj\Debug\net6.0\P04EvenTimes.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\obj\Debug\net6.0\refint\P04EvenTimes.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\obj\Debug\net6.0\P04EvenTimes.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\obj\Debug\net6.0\P04EvenTimes.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P04EvenTimes\obj\Debug\net6.0\ref\P04EvenTimes.dll

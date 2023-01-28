@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\bin\Debug\net6.0\P09PredicateParty.exe
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\bin\Debug\net6.0\P09PredicateParty.deps.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\bin\Debug\net6.0\P09PredicateParty.runtimeconfig.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\bin\Debug\net6.0\P09PredicateParty.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\bin\Debug\net6.0\P09PredicateParty.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\obj\Debug\net6.0\P09PredicateParty.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\obj\Debug\net6.0\P09PredicateParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\obj\Debug\net6.0\P09PredicateParty.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\obj\Debug\net6.0\P09PredicateParty.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\obj\Debug\net6.0\P09PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\obj\Debug\net6.0\P09PredicateParty.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\obj\Debug\net6.0\refint\P09PredicateParty.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\obj\Debug\net6.0\P09PredicateParty.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\obj\Debug\net6.0\P09PredicateParty.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P09PredicateParty\obj\Debug\net6.0\ref\P09PredicateParty.dll

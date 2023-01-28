@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\bin\Debug\net6.0\P04FindEvenOrOdds.exe
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\bin\Debug\net6.0\P04FindEvenOrOdds.deps.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\bin\Debug\net6.0\P04FindEvenOrOdds.runtimeconfig.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\bin\Debug\net6.0\P04FindEvenOrOdds.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\bin\Debug\net6.0\P04FindEvenOrOdds.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\obj\Debug\net6.0\P04FindEvenOrOdds.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\obj\Debug\net6.0\P04FindEvenOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\obj\Debug\net6.0\P04FindEvenOrOdds.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\obj\Debug\net6.0\P04FindEvenOrOdds.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\obj\Debug\net6.0\P04FindEvenOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\obj\Debug\net6.0\P04FindEvenOrOdds.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\obj\Debug\net6.0\refint\P04FindEvenOrOdds.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\obj\Debug\net6.0\P04FindEvenOrOdds.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\obj\Debug\net6.0\P04FindEvenOrOdds.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P04FindEvenOrOdds\obj\Debug\net6.0\ref\P04FindEvenOrOdds.dll

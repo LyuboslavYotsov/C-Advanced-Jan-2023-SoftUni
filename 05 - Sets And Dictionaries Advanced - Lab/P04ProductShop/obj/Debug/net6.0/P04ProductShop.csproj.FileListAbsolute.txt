@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\bin\Debug\net6.0\P04ProductShop.exe
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\bin\Debug\net6.0\P04ProductShop.deps.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\bin\Debug\net6.0\P04ProductShop.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\bin\Debug\net6.0\P04ProductShop.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\bin\Debug\net6.0\P04ProductShop.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\obj\Debug\net6.0\P04ProductShop.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\obj\Debug\net6.0\P04ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\obj\Debug\net6.0\P04ProductShop.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\obj\Debug\net6.0\P04ProductShop.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\obj\Debug\net6.0\P04ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\obj\Debug\net6.0\P04ProductShop.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\obj\Debug\net6.0\refint\P04ProductShop.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\obj\Debug\net6.0\P04ProductShop.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\obj\Debug\net6.0\P04ProductShop.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P04ProductShop\obj\Debug\net6.0\ref\P04ProductShop.dll

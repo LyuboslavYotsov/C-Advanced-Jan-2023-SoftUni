@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\bin\Debug\net6.0\P07ParkingLot.exe
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\bin\Debug\net6.0\P07ParkingLot.deps.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\bin\Debug\net6.0\P07ParkingLot.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\bin\Debug\net6.0\P07ParkingLot.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\bin\Debug\net6.0\P07ParkingLot.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\obj\Debug\net6.0\P07ParkingLot.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\obj\Debug\net6.0\P07ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\obj\Debug\net6.0\P07ParkingLot.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\obj\Debug\net6.0\P07ParkingLot.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\obj\Debug\net6.0\P07ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\obj\Debug\net6.0\P07ParkingLot.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\obj\Debug\net6.0\refint\P07ParkingLot.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\obj\Debug\net6.0\P07ParkingLot.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\obj\Debug\net6.0\P07ParkingLot.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P07ParkingLot\obj\Debug\net6.0\ref\P07ParkingLot.dll

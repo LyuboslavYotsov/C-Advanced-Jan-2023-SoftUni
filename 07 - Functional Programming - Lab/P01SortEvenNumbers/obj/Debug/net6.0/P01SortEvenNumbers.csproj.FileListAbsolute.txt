@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\bin\Debug\net6.0\P01SortEvenNumbers.exe
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\bin\Debug\net6.0\P01SortEvenNumbers.deps.json
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\bin\Debug\net6.0\P01SortEvenNumbers.runtimeconfig.json
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\bin\Debug\net6.0\P01SortEvenNumbers.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\bin\Debug\net6.0\P01SortEvenNumbers.pdb
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\obj\Debug\net6.0\P01SortEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\obj\Debug\net6.0\P01SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\obj\Debug\net6.0\P01SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\obj\Debug\net6.0\P01SortEvenNumbers.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\obj\Debug\net6.0\P01SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\obj\Debug\net6.0\P01SortEvenNumbers.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\obj\Debug\net6.0\refint\P01SortEvenNumbers.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\obj\Debug\net6.0\P01SortEvenNumbers.pdb
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\obj\Debug\net6.0\P01SortEvenNumbers.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P01SortEvenNumbers\obj\Debug\net6.0\ref\P01SortEvenNumbers.dll

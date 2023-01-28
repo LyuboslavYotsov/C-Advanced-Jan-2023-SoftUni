@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\bin\Debug\net6.0\P06RecordUniqueNames.exe
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\bin\Debug\net6.0\P06RecordUniqueNames.deps.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\bin\Debug\net6.0\P06RecordUniqueNames.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\bin\Debug\net6.0\P06RecordUniqueNames.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\bin\Debug\net6.0\P06RecordUniqueNames.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\obj\Debug\net6.0\P06RecordUniqueNames.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\obj\Debug\net6.0\P06RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\obj\Debug\net6.0\P06RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\obj\Debug\net6.0\P06RecordUniqueNames.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\obj\Debug\net6.0\P06RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\obj\Debug\net6.0\P06RecordUniqueNames.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\obj\Debug\net6.0\refint\P06RecordUniqueNames.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\obj\Debug\net6.0\P06RecordUniqueNames.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\obj\Debug\net6.0\P06RecordUniqueNames.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P06RecordUniqueNames\obj\Debug\net6.0\ref\P06RecordUniqueNames.dll

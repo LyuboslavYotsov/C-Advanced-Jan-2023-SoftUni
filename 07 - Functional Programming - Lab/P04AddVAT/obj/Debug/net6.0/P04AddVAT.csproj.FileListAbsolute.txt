@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\bin\Debug\net6.0\P04AddVAT.exe
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\bin\Debug\net6.0\P04AddVAT.deps.json
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\bin\Debug\net6.0\P04AddVAT.runtimeconfig.json
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\bin\Debug\net6.0\P04AddVAT.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\bin\Debug\net6.0\P04AddVAT.pdb
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\obj\Debug\net6.0\P04AddVAT.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\obj\Debug\net6.0\P04AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\obj\Debug\net6.0\P04AddVAT.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\obj\Debug\net6.0\P04AddVAT.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\obj\Debug\net6.0\P04AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\obj\Debug\net6.0\P04AddVAT.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\obj\Debug\net6.0\refint\P04AddVAT.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\obj\Debug\net6.0\P04AddVAT.pdb
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\obj\Debug\net6.0\P04AddVAT.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P04AddVAT\obj\Debug\net6.0\ref\P04AddVAT.dll

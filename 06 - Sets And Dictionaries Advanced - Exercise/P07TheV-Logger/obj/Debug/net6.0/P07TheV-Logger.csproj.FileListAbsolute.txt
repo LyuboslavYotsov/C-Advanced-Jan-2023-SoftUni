@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\bin\Debug\net6.0\P07TheV-Logger.exe
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\bin\Debug\net6.0\P07TheV-Logger.deps.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\bin\Debug\net6.0\P07TheV-Logger.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\bin\Debug\net6.0\P07TheV-Logger.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\bin\Debug\net6.0\P07TheV-Logger.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\obj\Debug\net6.0\P07TheV-Logger.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\obj\Debug\net6.0\P07TheV-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\obj\Debug\net6.0\P07TheV-Logger.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\obj\Debug\net6.0\P07TheV-Logger.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\obj\Debug\net6.0\P07TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\obj\Debug\net6.0\P07TheV-Logger.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\obj\Debug\net6.0\refint\P07TheV-Logger.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\obj\Debug\net6.0\P07TheV-Logger.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\obj\Debug\net6.0\P07TheV-Logger.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P07TheV-Logger\obj\Debug\net6.0\ref\P07TheV-Logger.dll

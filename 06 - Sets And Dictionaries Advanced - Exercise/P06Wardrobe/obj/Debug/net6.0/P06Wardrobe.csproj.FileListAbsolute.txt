@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\bin\Debug\net6.0\P06Wardrobe.exe
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\bin\Debug\net6.0\P06Wardrobe.deps.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\bin\Debug\net6.0\P06Wardrobe.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\bin\Debug\net6.0\P06Wardrobe.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\bin\Debug\net6.0\P06Wardrobe.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\obj\Debug\net6.0\P06Wardrobe.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\obj\Debug\net6.0\P06Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\obj\Debug\net6.0\P06Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\obj\Debug\net6.0\P06Wardrobe.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\obj\Debug\net6.0\P06Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\obj\Debug\net6.0\P06Wardrobe.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\obj\Debug\net6.0\refint\P06Wardrobe.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\obj\Debug\net6.0\P06Wardrobe.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\obj\Debug\net6.0\P06Wardrobe.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P06Wardrobe\obj\Debug\net6.0\ref\P06Wardrobe.dll

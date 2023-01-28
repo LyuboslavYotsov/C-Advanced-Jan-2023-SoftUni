@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\bin\Debug\net6.0\P03Largest3Numbers.exe
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\bin\Debug\net6.0\P03Largest3Numbers.deps.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\bin\Debug\net6.0\P03Largest3Numbers.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\bin\Debug\net6.0\P03Largest3Numbers.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\bin\Debug\net6.0\P03Largest3Numbers.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\obj\Debug\net6.0\P03Largest3Numbers.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\obj\Debug\net6.0\P03Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\obj\Debug\net6.0\P03Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\obj\Debug\net6.0\P03Largest3Numbers.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\obj\Debug\net6.0\P03Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\obj\Debug\net6.0\P03Largest3Numbers.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\obj\Debug\net6.0\refint\P03Largest3Numbers.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\obj\Debug\net6.0\P03Largest3Numbers.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\obj\Debug\net6.0\P03Largest3Numbers.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P03Largest3Numbers\obj\Debug\net6.0\ref\P03Largest3Numbers.dll

@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\bin\Debug\net6.0\P11TriFunction.exe
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\bin\Debug\net6.0\P11TriFunction.deps.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\bin\Debug\net6.0\P11TriFunction.runtimeconfig.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\bin\Debug\net6.0\P11TriFunction.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\bin\Debug\net6.0\P11TriFunction.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\obj\Debug\net6.0\P11TriFunction.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\obj\Debug\net6.0\P11TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\obj\Debug\net6.0\P11TriFunction.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\obj\Debug\net6.0\P11TriFunction.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\obj\Debug\net6.0\P11TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\obj\Debug\net6.0\P11TriFunction.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\obj\Debug\net6.0\refint\P11TriFunction.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\obj\Debug\net6.0\P11TriFunction.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\obj\Debug\net6.0\P11TriFunction.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P11TriFunction\obj\Debug\net6.0\ref\P11TriFunction.dll

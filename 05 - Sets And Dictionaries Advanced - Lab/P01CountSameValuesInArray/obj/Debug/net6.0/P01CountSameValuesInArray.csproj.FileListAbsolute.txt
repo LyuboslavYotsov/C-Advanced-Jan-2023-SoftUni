@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\bin\Debug\net6.0\P01CountSameValuesInArray.exe
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\bin\Debug\net6.0\P01CountSameValuesInArray.deps.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\bin\Debug\net6.0\P01CountSameValuesInArray.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\bin\Debug\net6.0\P01CountSameValuesInArray.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\bin\Debug\net6.0\P01CountSameValuesInArray.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\obj\Debug\net6.0\P01CountSameValuesInArray.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\obj\Debug\net6.0\P01CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\obj\Debug\net6.0\P01CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\obj\Debug\net6.0\P01CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\obj\Debug\net6.0\P01CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\obj\Debug\net6.0\P01CountSameValuesInArray.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\obj\Debug\net6.0\refint\P01CountSameValuesInArray.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\obj\Debug\net6.0\P01CountSameValuesInArray.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\obj\Debug\net6.0\P01CountSameValuesInArray.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P01CountSameValuesInArray\obj\Debug\net6.0\ref\P01CountSameValuesInArray.dll

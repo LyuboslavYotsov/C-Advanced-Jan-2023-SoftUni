@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\bin\Debug\net6.0\P05AppliedArithmetic.exe
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\bin\Debug\net6.0\P05AppliedArithmetic.deps.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\bin\Debug\net6.0\P05AppliedArithmetic.runtimeconfig.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\bin\Debug\net6.0\P05AppliedArithmetic.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\bin\Debug\net6.0\P05AppliedArithmetic.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\obj\Debug\net6.0\P05AppliedArithmetic.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\obj\Debug\net6.0\P05AppliedArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\obj\Debug\net6.0\P05AppliedArithmetic.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\obj\Debug\net6.0\P05AppliedArithmetic.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\obj\Debug\net6.0\P05AppliedArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\obj\Debug\net6.0\P05AppliedArithmetic.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\obj\Debug\net6.0\refint\P05AppliedArithmetic.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\obj\Debug\net6.0\P05AppliedArithmetic.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\obj\Debug\net6.0\P05AppliedArithmetic.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P05AppliedArithmetic\obj\Debug\net6.0\ref\P05AppliedArithmetic.dll

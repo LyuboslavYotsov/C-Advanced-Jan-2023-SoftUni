@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.exe
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.deps.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\refint\UniqueUsernames.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\ref\UniqueUsernames.dll

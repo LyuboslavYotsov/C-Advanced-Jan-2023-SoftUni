@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\bin\Debug\net6.0\P02SetsOfElements.exe
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\bin\Debug\net6.0\P02SetsOfElements.deps.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\bin\Debug\net6.0\P02SetsOfElements.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\bin\Debug\net6.0\P02SetsOfElements.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\bin\Debug\net6.0\P02SetsOfElements.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\obj\Debug\net6.0\P02SetsOfElements.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\obj\Debug\net6.0\P02SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\obj\Debug\net6.0\P02SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\obj\Debug\net6.0\P02SetsOfElements.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\obj\Debug\net6.0\P02SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\obj\Debug\net6.0\P02SetsOfElements.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\obj\Debug\net6.0\refint\P02SetsOfElements.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\obj\Debug\net6.0\P02SetsOfElements.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\obj\Debug\net6.0\P02SetsOfElements.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P02SetsOfElements\obj\Debug\net6.0\ref\P02SetsOfElements.dll

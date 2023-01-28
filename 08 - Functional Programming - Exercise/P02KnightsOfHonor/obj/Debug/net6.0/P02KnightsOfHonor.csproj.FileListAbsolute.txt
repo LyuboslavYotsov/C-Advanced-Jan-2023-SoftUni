@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\bin\Debug\net6.0\P02KnightsOfHonor.exe
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\bin\Debug\net6.0\P02KnightsOfHonor.deps.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\bin\Debug\net6.0\P02KnightsOfHonor.runtimeconfig.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\bin\Debug\net6.0\P02KnightsOfHonor.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\bin\Debug\net6.0\P02KnightsOfHonor.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\obj\Debug\net6.0\P02KnightsOfHonor.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\obj\Debug\net6.0\P02KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\obj\Debug\net6.0\P02KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\obj\Debug\net6.0\P02KnightsOfHonor.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\obj\Debug\net6.0\P02KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\obj\Debug\net6.0\P02KnightsOfHonor.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\obj\Debug\net6.0\refint\P02KnightsOfHonor.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\obj\Debug\net6.0\P02KnightsOfHonor.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\obj\Debug\net6.0\P02KnightsOfHonor.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P02KnightsOfHonor\obj\Debug\net6.0\ref\P02KnightsOfHonor.dll

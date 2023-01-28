@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\bin\Debug\net6.0\P10PartyReservationFilterModule.exe
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\bin\Debug\net6.0\P10PartyReservationFilterModule.deps.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\bin\Debug\net6.0\P10PartyReservationFilterModule.runtimeconfig.json
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\bin\Debug\net6.0\P10PartyReservationFilterModule.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\bin\Debug\net6.0\P10PartyReservationFilterModule.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\obj\Debug\net6.0\P10PartyReservationFilterModule.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\obj\Debug\net6.0\P10PartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\obj\Debug\net6.0\P10PartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\obj\Debug\net6.0\P10PartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\obj\Debug\net6.0\P10PartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\obj\Debug\net6.0\P10PartyReservationFilterModule.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\obj\Debug\net6.0\refint\P10PartyReservationFilterModule.dll
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\obj\Debug\net6.0\P10PartyReservationFilterModule.pdb
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\obj\Debug\net6.0\P10PartyReservationFilterModule.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\06FunctionalProgrammingExercise\P10PartyReservationFilterModule\obj\Debug\net6.0\ref\P10PartyReservationFilterModule.dll

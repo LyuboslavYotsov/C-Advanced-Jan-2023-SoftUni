@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\bin\Debug\net6.0\P02AverageStudentGrades.exe
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\bin\Debug\net6.0\P02AverageStudentGrades.deps.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\bin\Debug\net6.0\P02AverageStudentGrades.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\bin\Debug\net6.0\P02AverageStudentGrades.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\bin\Debug\net6.0\P02AverageStudentGrades.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\obj\Debug\net6.0\P02AverageStudentGrades.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\obj\Debug\net6.0\P02AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\obj\Debug\net6.0\P02AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\obj\Debug\net6.0\P02AverageStudentGrades.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\obj\Debug\net6.0\P02AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\obj\Debug\net6.0\P02AverageStudentGrades.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\obj\Debug\net6.0\refint\P02AverageStudentGrades.dll
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\obj\Debug\net6.0\P02AverageStudentGrades.pdb
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\obj\Debug\net6.0\P02AverageStudentGrades.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsAndDictionariesAdvanced\P02AverageStudentGrades\obj\Debug\net6.0\ref\P02AverageStudentGrades.dll

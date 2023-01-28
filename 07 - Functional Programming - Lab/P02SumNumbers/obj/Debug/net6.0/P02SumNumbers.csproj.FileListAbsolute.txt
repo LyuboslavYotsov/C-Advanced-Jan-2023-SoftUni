@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\obj\Debug\net6.0\P02SumNumbers.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\obj\Debug\net6.0\P02SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\obj\Debug\net6.0\P02SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\obj\Debug\net6.0\P02SumNumbers.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\obj\Debug\net6.0\P02SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\bin\Debug\net6.0\P02SumNumbers.exe
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\bin\Debug\net6.0\P02SumNumbers.deps.json
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\bin\Debug\net6.0\P02SumNumbers.runtimeconfig.json
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\bin\Debug\net6.0\P02SumNumbers.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\bin\Debug\net6.0\P02SumNumbers.pdb
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\obj\Debug\net6.0\P02SumNumbers.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\obj\Debug\net6.0\refint\P02SumNumbers.dll
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\obj\Debug\net6.0\P02SumNumbers.pdb
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\obj\Debug\net6.0\P02SumNumbers.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\FunctionalProgrammingLab\P02SumNumbers\obj\Debug\net6.0\ref\P02SumNumbers.dll

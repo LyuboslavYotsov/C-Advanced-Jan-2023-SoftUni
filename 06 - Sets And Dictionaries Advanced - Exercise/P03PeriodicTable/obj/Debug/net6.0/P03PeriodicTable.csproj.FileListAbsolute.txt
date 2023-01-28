@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\bin\Debug\net6.0\P03PeriodicTable.exe
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\bin\Debug\net6.0\P03PeriodicTable.deps.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\bin\Debug\net6.0\P03PeriodicTable.runtimeconfig.json
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\bin\Debug\net6.0\P03PeriodicTable.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\bin\Debug\net6.0\P03PeriodicTable.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\obj\Debug\net6.0\P03PeriodicTable.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\obj\Debug\net6.0\P03PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\obj\Debug\net6.0\P03PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\obj\Debug\net6.0\P03PeriodicTable.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\obj\Debug\net6.0\P03PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\obj\Debug\net6.0\P03PeriodicTable.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\obj\Debug\net6.0\refint\P03PeriodicTable.dll
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\obj\Debug\net6.0\P03PeriodicTable.pdb
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\obj\Debug\net6.0\P03PeriodicTable.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\SetsandDictionariesAdvancedExercise\P03PeriodicTable\obj\Debug\net6.0\ref\P03PeriodicTable.dll
