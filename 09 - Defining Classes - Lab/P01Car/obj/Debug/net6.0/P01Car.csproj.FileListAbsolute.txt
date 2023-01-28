@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\bin\Debug\net6.0\P01Car.exe
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\bin\Debug\net6.0\P01Car.deps.json
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\bin\Debug\net6.0\P01Car.runtimeconfig.json
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\bin\Debug\net6.0\P01Car.dll
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\bin\Debug\net6.0\P01Car.pdb
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\obj\Debug\net6.0\P01Car.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\obj\Debug\net6.0\P01Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\obj\Debug\net6.0\P01Car.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\obj\Debug\net6.0\P01Car.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\obj\Debug\net6.0\P01Car.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\obj\Debug\net6.0\P01Car.dll
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\obj\Debug\net6.0\refint\P01Car.dll
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\obj\Debug\net6.0\P01Car.pdb
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\obj\Debug\net6.0\P01Car.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\06DefiningClassesLab\P01Car\obj\Debug\net6.0\ref\P01Car.dll
