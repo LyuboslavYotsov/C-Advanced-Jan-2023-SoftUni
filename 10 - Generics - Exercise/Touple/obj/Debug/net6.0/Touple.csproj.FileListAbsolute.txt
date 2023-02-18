@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\bin\Debug\net6.0\Touple.exe
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\bin\Debug\net6.0\Touple.deps.json
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\bin\Debug\net6.0\Touple.runtimeconfig.json
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\bin\Debug\net6.0\Touple.dll
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\bin\Debug\net6.0\Touple.pdb
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\obj\Debug\net6.0\Touple.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\obj\Debug\net6.0\Touple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\obj\Debug\net6.0\Touple.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\obj\Debug\net6.0\Touple.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\obj\Debug\net6.0\Touple.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\obj\Debug\net6.0\Touple.dll
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\obj\Debug\net6.0\refint\Touple.dll
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\obj\Debug\net6.0\Touple.pdb
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\obj\Debug\net6.0\Touple.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\GenericsExercise\Touple\obj\Debug\net6.0\ref\Touple.dll

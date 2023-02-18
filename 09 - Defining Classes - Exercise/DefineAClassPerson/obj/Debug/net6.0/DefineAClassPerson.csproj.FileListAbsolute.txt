@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.exe
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.deps.json
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.dll
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.pdb
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.dll
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\obj\Debug\net6.0\refint\DefineAClassPerson.dll
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.pdb
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\DefineAClassPerson\obj\Debug\net6.0\ref\DefineAClassPerson.dll

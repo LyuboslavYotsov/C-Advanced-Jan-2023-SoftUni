@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.exe
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.deps.json
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.runtimeconfig.json
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.dll
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.pdb
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.dll
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\obj\Debug\net6.0\refint\CustomDoublyLinkedList.dll
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.pdb
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\IteratorsAndComparatorsExercise\CustomDoublyLinkedList\obj\Debug\net6.0\ref\CustomDoublyLinkedList.dll

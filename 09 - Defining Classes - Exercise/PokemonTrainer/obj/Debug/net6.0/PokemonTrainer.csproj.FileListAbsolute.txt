@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.exe
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.deps.json
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.dll
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.pdb
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.dll
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\net6.0\refint\PokemonTrainer.dll
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.pdb
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\net6.0\ref\PokemonTrainer.dll

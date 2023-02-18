@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\bin\Debug\net6.0\RawData.exe
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\bin\Debug\net6.0\RawData.deps.json
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\bin\Debug\net6.0\RawData.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\bin\Debug\net6.0\RawData.dll
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\bin\Debug\net6.0\RawData.pdb
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\obj\Debug\net6.0\RawData.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\obj\Debug\net6.0\RawData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\obj\Debug\net6.0\RawData.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\obj\Debug\net6.0\RawData.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\obj\Debug\net6.0\RawData.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\obj\Debug\net6.0\RawData.dll
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\obj\Debug\net6.0\refint\RawData.dll
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\obj\Debug\net6.0\RawData.pdb
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\obj\Debug\net6.0\RawData.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\DefiningClassesExercise\RawData\obj\Debug\net6.0\ref\RawData.dll

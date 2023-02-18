@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.exe
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.deps.json
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.dll
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.pdb
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.dll
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\net6.0\refint\GenericSwapMethodIntegers.dll
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.pdb
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\net6.0\ref\GenericSwapMethodIntegers.dll
